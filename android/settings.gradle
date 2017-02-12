@@ -1,0 +1,3 @@
+rootProject.name = 'WhereMonster'
+
+include ':app'
